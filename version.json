@@ -1,5 +1,4 @@
 {
-  "version": "1.1",
-  "release_date": "2023-09-28",
-  "changelog": "Mises à jour..."
+	"version": "3.7",
+	"changelog": " NEW ADMIN SYSTEM INCLUDING TXADMIN INTEGRATION\nDetection sharing\n Maximum username length feature\n New unbanning webhook logging \n Bug fixes... "
 }
