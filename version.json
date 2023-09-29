@@ -1,4 +1,4 @@
 {
-	"version": "5.0",
+	"version": "2",
 	"changelog": " NEW ADMIN SYSTEM INCLUDING TXADMIN INTEGRATION\nDetection sharing\n Maximum username length feature\n New unbanning webhook logging \n Bug fixes... "
 }
